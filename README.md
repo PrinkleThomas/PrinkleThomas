@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrinkleThomas
 - 👀 I’m interested in becoming a programmer.
-- 🌱 I’m currently learning HTML & CSS.
-- 💞️ I’m looking to collaborate on website development.
+- 🌱 I’m currently learning anything related to Computers/Programming.
+- 💞️ I’m looking to collaborate on Python for Finance/ Website development.
 - 📫 How to reach me prinkle.123@gmail.com
 
 <!---
